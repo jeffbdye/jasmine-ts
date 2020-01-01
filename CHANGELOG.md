@@ -8,3 +8,5 @@ This file tracks all the changes made since we forked this from [svi3c/jasmine-t
 
 * Bump `yargs`
   - solves NPM security advisory
+* Bump `jasmine`
+  - solves `npm install <path-to-folder>` for local testing
