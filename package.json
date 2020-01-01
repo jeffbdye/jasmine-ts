@@ -1,5 +1,5 @@
 {
-  "name": "jasmine-ts",
+  "name": "@ganbarodigital/jasmine-ts",
   "version": "0.3.0",
   "description": "Execute jasmine with ts-node",
   "main": "lib/index.js",
