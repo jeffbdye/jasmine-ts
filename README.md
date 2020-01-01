@@ -1,5 +1,7 @@
 # jasmine-ts
 
+__NOTE:__ The original maintainer @svi3c seems to have disappeared. We've made a fork, so that we can fix issues that are stopping us from using `jasmine-ts` in our own projects.
+
 [![Build Status](https://travis-ci.org/svi3c/jasmine-ts.svg?branch=master)](https://travis-ci.org/svi3c/jasmine-ts)
 
 A simplification for running [jasmine](https://www.npmjs.com/package/jasmine) with
