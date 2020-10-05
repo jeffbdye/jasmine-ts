@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/svi3c/jasmine-ts.git"
+    "url": "git+https://github.com/ganbarodigital/jasmine-ts.git"
   },
   "keywords": [
     "node",
@@ -28,7 +28,7 @@
   "bugs": {
     "url": "https://github.com/svi3c/jasmine-ts/issues"
   },
-  "homepage": "https://github.com/svi3c/jasmine-ts#readme",
+  "homepage": "https://github.com/ganbarodigital/jasmine-ts#readme",
   "dependencies": {
     "yargs": "^15.0.2"
   },
